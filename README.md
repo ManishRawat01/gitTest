@@ -1,4 +1,4 @@
 # gitTest
 User1 commit
-Master commit
+master rebase commit
 
